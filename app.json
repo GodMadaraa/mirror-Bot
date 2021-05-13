@@ -19,7 +19,7 @@
     },
       "BOT_TOKEN": {
         "description": "The telegram bot token that you get from @BotFather.",
-        "value": "1645002090:AAGrbAlG33vPDzDcThE5Wh9fldTdy-3Tv5w",
+        "value": "1620975003:AAHLeFD-ATOUX5_F1EA562422zDVq4XB0fQ",
         "required": true
       },
       "GDRIVE_FOLDER_ID": {
@@ -39,7 +39,7 @@
       },
       "OWNER_ID": {
         "description": "The Telegram user ID (not username) of the owner of the bot.",
-        "value": "1675835645",
+        "value": "1528285120",
         "required": true
       },
       "AUTO_DELETE_MESSAGE_DURATION": {
@@ -59,17 +59,17 @@
       },
       "INDEX_URL": {
         "description": "Refer to https://github.com/maple3142/GDIndex/ The URL should not have any trailing '/'.",
-        "value": "https://xd.madaraokay.workers.dev",
+        "value": "https://xd.hxrsh.workers.dev/0:/",
         "required": false
       },
       "TELEGRAM_API": {
         "description": "This is to authenticate to your telegram account for downloading Telegram files. You can get this from https://my.telegram.org DO NOT put this in quotes.",
-        "value": "2901399",
+        "value": "3975836",
         "required": true
       },
       "TELEGRAM_HASH": {
         "description": "This is to authenticate to your telegram account for downloading Telegram files. You can get this from https://my.telegram.org.",
-        "value": "d587f02606182f8347d40108695aef72",
+        "value": "ef9798d15a58c54f730e92b665ae2030",
         "required": true
       },
       "TELEGRAPH_TOKEN": {
@@ -94,7 +94,7 @@
       },
       "USER_SESSION_STRING": {
         "description": "Open this link to generate session string ==> https://string-session.sonywegas.repl.run",
-        "value": "1AZWarzYBu742fNxQWs5zeWVmU_hfIZbtNXOCE-97rbqJg8b9ABLYzfy-7kVCljjZ8sUrNWhrLXf9EFXmrATsyuuBpdMmFhDbxhcufFnJfyTGgb-VjDkAtlBSZkGcf9lk9wphtBeITmP-Sxmn6HVHxCP_dR0t0nOntB-IxEP7cWPHih8ivX9URdzS_KB1Dq8DwAoU-or-wSMbSi5U5r3R0yo6pgQ8DC_vReUugie4M_GqaxLzeuEEeijiuBLTFL8YzO7bWcJlYGFtP2Jg-j3pKAyFpLXO_0ZHSNju0YAuSCvd1HZ0lpiCGWG53xmpWIYoses8bjFBfngShVZlTJEvyNrrLDD9LXg=",
+        "value": "1BVtsOLQBu0FHoD8bS4y8Eo8a42bLBkoVEeFam6835qjoaA_Ofe--AwMP9bAnECDPnbNimlv-thjFrK0EGG349QTZAbRrt60ilCBjVKhe5ptt7S_Pc9cko52_X7vE3rz5oRtTMJUjhr0Wulwll-BJ5NoTsO7QHP7uSWYU0ag83le7VbEJmC8UJnkRnCnR9iObY9USgvLnApEshNT7sohtTuI19SHxl8FqOfQvDiJzcPD4HkKtVLzrS3joqlIr_jhStsvbJokeFGvvqh7Lu533qGBF9hQwnfvo_Xrsp6HvQnlMpiJGuC-5qPYmTtj-FFH2EBuCl33WvzYhbUizWM3jsxYBO1rKpbA=",
         "required": true
       }
     },
