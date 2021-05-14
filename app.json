@@ -19,7 +19,7 @@
     },
       "BOT_TOKEN": {
         "description": "The telegram bot token that you get from @BotFather.",
-        "value": "1620975003:AAHLeFD-ATOUX5_F1EA562422zDVq4XB0fQ",
+        "value": "1899872607:AAEAbgj4W2NiRurDaIU0yRRRGoUGxjcKPuM",
         "required": true
       },
       "GDRIVE_FOLDER_ID": {
@@ -39,7 +39,7 @@
       },
       "OWNER_ID": {
         "description": "The Telegram user ID (not username) of the owner of the bot.",
-        "value": "1528285120",
+        "value": "1703879949",
         "required": true
       },
       "AUTO_DELETE_MESSAGE_DURATION": {
@@ -64,12 +64,12 @@
       },
       "TELEGRAM_API": {
         "description": "This is to authenticate to your telegram account for downloading Telegram files. You can get this from https://my.telegram.org DO NOT put this in quotes.",
-        "value": "3975836",
+        "value": "3012719",
         "required": true
       },
       "TELEGRAM_HASH": {
         "description": "This is to authenticate to your telegram account for downloading Telegram files. You can get this from https://my.telegram.org.",
-        "value": "ef9798d15a58c54f730e92b665ae2030",
+        "value": "be3a9dc7a95f9860b98ff709f5cd57aa",
         "required": true
       },
       "TELEGRAPH_TOKEN": {
@@ -94,7 +94,7 @@
       },
       "USER_SESSION_STRING": {
         "description": "Open this link to generate session string ==> https://string-session.sonywegas.repl.run",
-        "value": "1BVtsOLQBu0FHoD8bS4y8Eo8a42bLBkoVEeFam6835qjoaA_Ofe--AwMP9bAnECDPnbNimlv-thjFrK0EGG349QTZAbRrt60ilCBjVKhe5ptt7S_Pc9cko52_X7vE3rz5oRtTMJUjhr0Wulwll-BJ5NoTsO7QHP7uSWYU0ag83le7VbEJmC8UJnkRnCnR9iObY9USgvLnApEshNT7sohtTuI19SHxl8FqOfQvDiJzcPD4HkKtVLzrS3joqlIr_jhStsvbJokeFGvvqh7Lu533qGBF9hQwnfvo_Xrsp6HvQnlMpiJGuC-5qPYmTtj-FFH2EBuCl33WvzYhbUizWM3jsxYBO1rKpbA=",
+        "value": "1AZWarzgBu6ES408ekedGgPMJ45jkvnsTaxDGi6l-RgbPLnqX_sloowAiLqO4qYds115He-E070rFZC57zY-ly3QcPWUMYaM1x6tpE90k8IyN6IY0CqX4HbC30WmsW9Zp7GPzrVzqb_JUHpyJ4MrAzkRhE0pBaf4U4qmWwOhHmcgpNSGyEvabEKCdQJO1jiMiJ4i2ljm20NzyUQpV4PuudvIdQe5xWivZ3OG9569ndHZGVuMlzc4wpRBDgw38TdHPXgPIzBqLKrAjTgKTTkW7VBW9B2zSykT3WYY-Bm_S8iHnYuNpk5ApZzdusi0PC0r__bHr7lVreR6jJJJwBrSfSpXrSWPdN20=",
         "required": true
       }
     },
