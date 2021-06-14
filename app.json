@@ -8,7 +8,7 @@
       "aria",
       "python"
     ],
-    "repository": "https://github.com/GodMadaraa/mirror-Bot.git",
+    "repository": "https://github.com/acesaboluffyasl/mirror-Bot",
     "website": "https://t.me/linux_repo",
     "success_url": "https://t.me/linux_repo",
     "stack": "container",
@@ -24,7 +24,7 @@
       },
       "GDRIVE_FOLDER_ID": {
         "description": "This is the folder ID of the Google Drive Folder to which you want to upload all the mirrors.",
-        "value": "1xHdaBL7j-0uNpwvyGYHNuH5ocr8izhGA",
+        "value": "1i_PiutfZPlVauTvl7pnaUbO8oketsvF9",
         "required": true
       },
       "DOWNLOAD_DIR": {
@@ -59,7 +59,7 @@
       },
       "INDEX_URL": {
         "description": "Refer to https://github.com/maple3142/GDIndex/ The URL should not have any trailing '/'.",
-        "value": "https://xd.hxrsh.workers.dev/0:/",
+        "value": "https://xd.draken.workers.dev/0:/",
         "required": false
       },
       "TELEGRAM_API": {
@@ -84,12 +84,12 @@
       },
       "MEGA_EMAIL_ID": {
         "description": "Mega Email.",
-        "value": "",
+        "value": "harshdeep260425@gmail.com",
         "required": false
       },
       "MEGA_PASSWORD": {
         "description": "Mega Password.",
-        "value": "",
+        "value": "HeavenlyYoho",
         "required": false
       },
       "USER_SESSION_STRING": {
